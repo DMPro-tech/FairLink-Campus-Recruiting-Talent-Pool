@@ -1,0 +1,6 @@
+{
+  "name": "FairLink - Campus Recruiting Talent Pool",
+  "description": "Full-stack campus recruiting app with Express API for managing candidate leads, application status filtering, rapid lead capture, and ATS synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
